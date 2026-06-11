@@ -1,0 +1,10 @@
+# Debian packaging output
+*.deb
+*.changes
+*.buildinfo
+
+# Editor
+.vscode/
+*.swp
+*~
+.DS_Store
